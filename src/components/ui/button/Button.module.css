@@ -1,0 +1,9 @@
+.button {
+    padding: 5px 15px;
+    color: coral;
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    background: transparent;
+    border: 2px solid coral;
+    cursor: pointer;
+}

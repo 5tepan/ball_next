@@ -1,0 +1,30 @@
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+}
+
+.loginCard {
+    border: 2px solid coral;
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.error {
+    color: red;
+    font-family: Roboto, sans-serif;
+    font-size: 36px;
+    margin-top: 50px;
+}
+
+.title {
+    font-family: Roboto, sans-serif;
+    color: coral;
+}
